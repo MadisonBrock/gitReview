@@ -1,1 +1,3 @@
 Breakfast is a meal eaten at some point during the day. 
+
+Breakfast is the first meal of the day. 
